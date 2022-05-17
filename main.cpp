@@ -10,5 +10,6 @@ int main()
     cout << "conflict merge: master branch!" << endl;
     cout << "conflict merge: hot-fix branch" << endl;
     cout << "push..." << endl;
+    cout << "pull..." << endl;
     return 0;
 }
