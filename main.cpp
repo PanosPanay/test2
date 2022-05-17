@@ -7,5 +7,6 @@ int main()
     cout << "third commit!" << endl;
     cout << "4th commit!" << endl;
     cout << "hello hot-fix branch!" << endl;
+    cout << "conflict merge: hot-fix branch" << endl;
     return 0;
 }
