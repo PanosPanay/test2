@@ -9,5 +9,6 @@ int main()
     cout << "hello hot-fix branch!" << endl;
     cout << "conflict merge: master branch!" << endl;
     cout << "conflict merge: hot-fix branch" << endl;
+    cout << "push..." << endl;
     return 0;
 }
